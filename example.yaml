@@ -1,0 +1,42 @@
+- text: |
+    It's OK to suck from time to time.
+    偶爾搞砸、廢一下也是可以的啦。
+    たまにはダメダメ認めても大丈夫だよ。
+  output_path: "./output/motivation_fixed.png"
+  size: [2560, 1600]
+  font_size: 96
+  source: "VP"
+  display_source: true
+
+- text: "I don't believe in the no-win scenario."
+  output_path: "./output/motivation_fixed-2.png"
+  size: [2560, 1600]
+  font_size: 130
+  source: "Star Trek"
+  display_source: true
+
+- text: |
+    Focus on the solution,
+    not the problem.
+  output_path: "./output/motivation_custom_bg.png"
+  size: [2560, 1600]
+  bg_color: "#2c3e50"
+  font_size: 150
+
+- text: "Memento Mori"
+  output_path: "./output/memento_mori.png"
+  size: [2560, 1600]
+  bg_color: "#C73E3A"
+  font_size: 200
+  source: "Latin Proverb"
+  display_source: true
+
+- text: "身構えている時には、\n死神は来ないものだ"
+  output_path: "./output/gundam_quote.png"
+  size: [2560, 1600]
+  bg_color: "#afccb6"
+  font_size: 120
+  line_spacing: 40
+  source: "機動戦士ガンダム 閃光のハサウェイ"
+  display_source: true
+
