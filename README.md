@@ -29,6 +29,9 @@ use `-f` for to specift the input source yaml file.
 uv run python image_generator.py -f example.yaml
 ```
 
+example output
+![Gundam Quote](gundam_quote.png)
+
 ## TDL
 ### Core & Data Structure
 Separate quote text and source/attribution in YAML schemas
