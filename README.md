@@ -30,7 +30,7 @@ uv run python image_generator.py -f example.yaml
 ```
 
 example output
-![Gundam Quote](gundam_quote.png)
+![Gundam Quote](https://github.com/vincent5753/Project-Lemma/blob/main/images/gundam_quote.png?raw=true)
 
 ## TDL
 ### Core & Data Structure
